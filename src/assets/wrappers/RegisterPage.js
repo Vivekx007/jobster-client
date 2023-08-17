@@ -1,12 +1,19 @@
-import styled from 'styled-components'
+import styled from "styled-components";
 
 const Wrapper = styled.section`
   display: grid;
   align-items: center;
+  justify-content: center;
+
   .logo {
     display: block;
     margin: 0 auto;
     margin-bottom: 1.38rem;
+  }
+  .left {
+    display: flex;
+    justify-content: left;
+    align-items: left;
   }
   .form {
     max-width: 400px;
@@ -31,5 +38,5 @@ const Wrapper = styled.section`
     cursor: pointer;
     letter-spacing: var(--letterSpacing);
   }
-`
-export default Wrapper
+`;
+export default Wrapper;

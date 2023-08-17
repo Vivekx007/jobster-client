@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="46.67 109 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="1e7cc276-604d-43f9-9e1c-91d3e893dd95"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="406d2bc1-121c-41f9-ae63-90f4a0c0ad8d"  >
+</g>
+<g transform="matrix(1 0 0 1 523.48 659.26)"  >
+<g style="" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(1 0 0 1 0 0)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(59,130,246); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="24" />
+</g>
+		<g transform="matrix(1 0 0 1 -0.05 6.15)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-23.95, -30.15)" d="M 38.3 24.5 L 9.6 24.5 L 9.6 34.8 C 9.6 35.3 10 35.8 10.5 35.8 L 37.5 35.8 C 37.9 35.8 38.3 35.3 38.3 34.8 L 38.3 24.5 z M 20.499999999999996 27.1 C 20.030557962643822 27.1 19.65 27.480557962643825 19.65 27.950000000000003 C 19.65 28.419442037356177 20.030557962643822 28.8 20.499999999999996 28.8 L 27.499999999999996 28.8 C 27.96944203735617 28.8 28.349999999999994 28.419442037356177 28.349999999999994 27.950000000000003 C 28.349999999999994 27.48055796264383 27.96944203735617 27.1 27.499999999999996 27.1 L 20.499999999999996 27.1 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -0.05 -6.85)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-23.95, -17.15)" d="M 35 19.1 L 34.6 18.5 C 34.34279630096684 16.877176436799328 34.175872859466416 15.241326710095235 34.1 13.599999999999998 L 31.5 13.6 C 31.353057997411533 15.235285920781315 31.186379185091777 16.86873828151494 31 18.5 L 30.7 19.1 C 30.2 19.900000000000002 29.3 21.3 29.3 23.1 L 36.3 23.1 C 36.3 21.3 35.5 19.900000000000002 35 19.1 z M 31.4 12.7 L 34.3 12.7 C 34.3 12.5 34.199999999999996 12.399999999999999 34.099999999999994 12.399999999999999 L 34.099999999999994 12 L 34.099999999999994 11.7 C 34.199999999999996 11.5 33.99999999999999 11.2 33.699999999999996 11.2 L 31.899999999999995 11.2 C 31.599999999999994 11.2 31.399999999999995 11.5 31.499999999999996 11.7 L 31.599999999999998 12 L 31.599999999999998 12.4 C 31.4 12.4 31.299999999999997 12.5 31.299999999999997 12.700000000000001 z M 26 19.1 L 25.7 18.5 C 25.44299977930219 16.877149957667292 25.27607749231865 15.241311545228541 25.2 13.6 L 22.599999999999998 13.6 C 22.45305799741153 15.235285920781315 22.286379185091775 16.86873828151494 22.099999999999998 18.5 L 21.799999999999997 19.1 C 21.299999999999997 19.900000000000002 20.4 21.3 20.4 23.1 L 27.4 23.1 C 27.4 21.3 26.5 19.900000000000002 26 19.1 z M 22.4 12.7 L 25.4 12.7 C 25.4 12.5 25.299999999999997 12.399999999999999 25.099999999999998 12.399999999999999 L 25.099999999999998 12 L 25.299999999999997 11.7 C 25.299999999999997 11.5 25.099999999999998 11.2 24.799999999999997 11.2 L 23 11.2 C 22.7 11.2 22.5 11.5 22.5 11.7 L 22.7 12 L 22.7 12.4 C 22.5 12.4 22.4 12.5 22.4 12.700000000000001 z M 17.2 19.1 L 16.9 18.5 C 16.642999779302194 16.877149957667292 16.476077492318648 15.241311545228541 16.4 13.6 L 13.799999999999999 13.6 C 13.653057997411533 15.235285920781315 13.486379185091774 16.86873828151494 13.299999999999999 18.5 L 12.999999999999998 19.1 C 12.499999999999998 19.900000000000002 11.599999999999998 21.3 11.599999999999998 23.1 L 18.599999999999998 23.1 C 18.599999999999998 21.3 17.7 19.900000000000002 17.2 19.1 z M 13.6 12.7 L 16.6 12.7 C 16.6 12.5 16.5 12.399999999999999 16.3 12.399999999999999 L 16.3 12 L 16.5 11.7 C 16.5 11.5 16.3 11.2 16 11.2 L 14.2 11.2 C 13.899999999999999 11.2 13.7 11.5 13.7 11.7 L 13.899999999999999 12 L 13.899999999999999 12.4 C 13.7 12.4 13.599999999999998 12.5 13.599999999999998 12.700000000000001 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 360.32 635.32)" style="" id="7d06c259-0202-42c4-ae43-192419132645"  >
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-opacity: 0; fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-63.32" y="25.13" style="white-space: pre; ">S      </tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 581.29 643.67)" style="" id="d19458fd-b401-4749-8010-c1c78b87d319"  >
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(59,130,246); fill-rule: nonzero; opacity: 0.87; white-space: pre;" ><tspan x="-98.98" y="25.13" style="white-space: pre; "> </tspan><tspan x="-85.06" y="25.13" style="white-space: pre; "> </tspan><tspan x="-71.14" y="25.13" style="white-space: pre; "> </tspan><tspan x="-57.22" y="25.13" style="white-space: pre; "> </tspan><tspan x="-43.3" y="25.13" style="white-space: pre; "> </tspan><tspan x="-29.38" y="25.13" style="font-size: 38px; ">U</tspan><tspan x="-4.99" y="25.13" style="font-size: 38px; ">p</tspan><tspan x="15.42" y="25.13" style="font-size: 38px; ">s</tspan><tspan x="30.92" y="25.13" style="font-size: 38px; ">t</tspan><tspan x="43.54" y="25.13" style="font-size: 38px; ">o</tspan><tspan x="63.15" y="25.13" style="font-size: 38px; ">c</tspan><tspan x="79.34" y="25.13" style="font-size: 38px; ">k</tspan></text>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
+<g style=""   >
+</g>
+</g>
+</svg>

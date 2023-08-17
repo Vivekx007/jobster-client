@@ -13,8 +13,8 @@ export const initialState = {
 const AppContext = React.createContext();
 export const AppProvider = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, initialState);
-  const displayAlert = () => {
-    dispatch({ type: DISPLAY_ALERT });
+  const displayAlert = (alertText) => {
+    dispatch({ type: DISPLAY_ALERT, payload: { alertText } });
     clearAlert();
   };
 
